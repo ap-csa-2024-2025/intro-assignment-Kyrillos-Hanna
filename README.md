@@ -13,6 +13,10 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+* Something interesting about me is: I like to cook and bake in my free time
+* Ask Mr. Vu anything: How are you doing right now?
+* List your sports and extracurriculars you participate in:
+    First Robotics Competition
+    Project HOPE
+    Orange County Science and Engineering Fair
+
